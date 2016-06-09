@@ -12,12 +12,12 @@ I thought it would be nice if there were a handbook for new professors, kind of 
 
 # Stuff you'll find here
 
-* [Are you sure you want to be a prof?](beaprof.md)
-* [Getting a faculty job](gettingthejob.md)
-* [Building and managing a research group](researchgroup.md)
-* [Getting funding](gettingfunding.md)
-* [Teaching](teaching.md)
-* [Service](service.md) - Program committees and more
-* [Getting tenure](tenure.md)
+* [Are you sure you want to be a prof?](beaprof)
+* [Getting a faculty job](gettingthejob)
+* [Building and managing a research group](researchgroup)
+* [Getting funding](gettingfunding)
+* [Teaching](teaching)
+* [Service](service) - Program committees and more
+* [Getting tenure](tenure)
 
 Interested in contributing? Just [contact me](http://www.mdw.la) or [send a pull request on Github](http://github.com/mdwelsh/howtoprof) with your changes.
