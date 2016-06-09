@@ -4,16 +4,18 @@ layout: hiddenpage
 ---
 This is the missing manual for professors, curated by [Matt Welsh](http://www.mdw.la/).
 
-# Heading one
+# What's all this, then?
 
-Some text
+What this site is about and why we're doing it.
 
-## Heading two
+# Stuff you'll find here
 
-More text.
+* Are you sure you want to be a prof?
+* Getting a faculty job
+* Building and managing a research group
+* Getting funding
+* Teaching
+* Service - Program committees and more
+* Getting tenure
 
-Text with *boldface*
-
-Text with **emphasis**
-
-Thanks.
+Interested in contributing? Just [contact me](http://www.mdw.la) or [send a pull request on Github](http://github.com/mdwelsh/howtoprof).
