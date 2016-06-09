@@ -5,8 +5,8 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            mdw.la
-description:      'Matt Welsh'
+title:            'How to Prof'
+description:      'How to Prof'
 url:              http://mdwelsh.github.io
 baseurl:          /
 
