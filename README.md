@@ -1,3 +1,3 @@
-# mdwelsh.github.io
+# How to Prof
 
-This is Matt Welsh's Github page.
+This is the Github page for howtoprof.com.
