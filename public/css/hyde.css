@@ -86,7 +86,8 @@ html {
 .sidebar-meta {
   color: #fff;
   margin-top: 0;
-  font-family: "Varela Round";
+  /* font-family: "Varela Round"; */
+  font-family: 'Amatic SC', cursive;
   font-size: 0.7rem;
 }
 
