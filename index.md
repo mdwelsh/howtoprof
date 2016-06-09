@@ -19,5 +19,6 @@ I thought it would be nice if there were a handbook for new professors, kind of 
 * [Teaching](/teaching)
 * [Service](/service) - Program committees and more
 * [Getting tenure](/tenure)
+* [Miscellaneous ramblings](/misc), best read after a drink or two
 
 Interested in contributing? Just [contact me](http://www.mdw.la) or [send a pull request on Github](http://github.com/mdwelsh/howtoprof) with your changes.
