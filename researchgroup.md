@@ -31,12 +31,10 @@ A humorous and raw look at what it takes to run software teams. More on the auth
 # Blog posts and such
 
 [Advising grad students](http://mis-misinformation.blogspot.com/2010/09/advising-grad-students.html) by [Margo Seltzer](http://www.eecs.harvard.edu/~margo)  
-  Margo's advice on mentoring graduate students. She's got a great track record of advising students and a lot of useful insight.
+Margo's advice on mentoring graduate students. She's got a great track record of advising students and a lot of useful insight.
 
 [The subtle art of managing a research group](http://matt-welsh.blogspot.com/2010/07/subtle-art-of-managing-research-group.html)  
 Some thoughts on what it takes to run research groups in academia.
-
-
 
 [Advising junior colleagues](http://mis-misinformation.blogspot.com/2013/06/advising-junior-colleagues.html) by [Margo Seltzer](http://www.eecs.harvard.edu/~margo)  
 Advice on mentoring junior faculty members.
@@ -49,4 +47,8 @@ Twelve good habits to instill in your grad students.
 
 [How do you evaluate your grad students?](http://matt-welsh.blogspot.com/2011/07/how-do-you-evaluate-your-grad-students.html)  
 Some thoughts on giving good feedback and keeping 'em on course.
+
+[Margo's Tips on Writing a Thesis](http://mis-misinformation.blogspot.com/2012/03/margos-tips-on-writing-thesis.html)  
+Give this to your students.
+  
 
