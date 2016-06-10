@@ -1,5 +1,5 @@
 ---
-title: Service and Committee Work
+title: Service and committee work
 layout: page
 ---
 
