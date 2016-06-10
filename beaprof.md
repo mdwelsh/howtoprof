@@ -7,10 +7,10 @@ Being a professor is not for everyone. A lot of people get drawn into the job be
 advisors and colleagues, admiring the great work they do, and they want to do the same. Before deciding whether a
 faculty career path is for you, I think it's important to understand some of the pros and cons of the job.
 
-[The secret lives of professors](http://matt-welsh.blogspot.com/2010/05/secret-lives-of-professors.html)
+[The secret lives of professors](http://matt-welsh.blogspot.com/2010/05/secret-lives-of-professors.html)  
     On the gap between the professor ideal and the professor reality.
 
-[Why I'm leaving Harvard](http://matt-welsh.blogspot.com/2010/11/why-im-leaving-harvard.html)
+[Why I'm leaving Harvard](http://matt-welsh.blogspot.com/2010/11/why-im-leaving-harvard.html)  
     My most-read post on why I decided to leave academia for Google.
 
 [Why I'm staying at Harvard](http://matt-welsh.blogspot.com/2010/11/guest-post-why-im-staying-at-harvard-by.html) - by [Michael Mitzenmacher](http://www.eecs.harvard.edu/~michaelm/)
