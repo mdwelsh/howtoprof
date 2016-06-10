@@ -15,6 +15,9 @@ faculty career path is for you, I think it's important to understand some of the
 
 [Why I'm staying at Harvard](http://matt-welsh.blogspot.com/2010/11/guest-post-why-im-staying-at-harvard-by.html) - by [Michael Mitzenmacher](http://www.eecs.harvard.edu/~michaelm/)  
     Michael's counterpoint and *raison d'être* for staying in academia.
+    
+[Everything I did wrong as a professor](http://matt-welsh.blogspot.com/2016/03/everything-i-did-wrong-as-professor.html)  
+    Stuff I wish I knew when I started the job.
 
 [Time management for junior faculty](http://matt-welsh.blogspot.com/2009/02/time-management-for-junior-faculty.html)  
     Early thoughts on how to juggle all of the job responsibilities.
