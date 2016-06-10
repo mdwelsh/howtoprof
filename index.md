@@ -15,6 +15,7 @@ I thought it would be nice if there were a handbook for new professors, kind of 
 * [Are you sure you want to be a prof?](/beaprof)
 * [Getting a faculty job](/gettingthejob)
 * [Building and managing a research group](/researchgroup)
+* [Publishing (or not)](/publishing)
 * [Getting funding](/funding)
 * [Teaching](/teaching)
 * [Service](/service) - Program committees and more
