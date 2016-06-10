@@ -30,8 +30,16 @@ A humorous and raw look at what it takes to run software teams. More on the auth
 
 # Blog posts and such
 
+[Advising grad students](http://mis-misinformation.blogspot.com/2010/09/advising-grad-students.html) by [Margo Seltzer](http://www.eecs.harvard.edu/~margo)  
+  Margo's advice on mentoring graduate students. She's got a great track record of advising students and a lot of useful insight.
+
 [The subtle art of managing a research group](http://matt-welsh.blogspot.com/2010/07/subtle-art-of-managing-research-group.html)  
 Some thoughts on what it takes to run research groups in academia.
+
+
+
+[Advising junior colleagues](http://mis-misinformation.blogspot.com/2013/06/advising-junior-colleagues.html) by [Margo Seltzer](http://www.eecs.harvard.edu/~margo)  
+Advice on mentoring junior faculty members.
 
 [The CS grad student lab manual](http://matt-welsh.blogspot.com/2010/01/cs-grad-student-lab-manual.html)  
 Trying to whip students into shape with a bit of rigor.
