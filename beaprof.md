@@ -7,6 +7,9 @@ Being a professor is not for everyone. A lot of people get drawn into the job be
 advisors and colleagues, admiring the great work they do, and they want to do the same. Before deciding whether a
 faculty career path is for you, I think it's important to understand some of the pros and cons of the job.
 
+[How to Have a Bad Career in Academia](http://people.eecs.berkeley.edu/~pattrsn/talks/nontech.html), by [David Patterson](http://people.eecs.berkeley.edu/~pattrsn)  
+    Probably the definitive guide to the academic career track.
+
 [The secret lives of professors](http://matt-welsh.blogspot.com/2010/05/secret-lives-of-professors.html)  
     On the gap between the professor ideal and the professor reality.
 
