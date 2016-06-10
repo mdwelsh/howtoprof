@@ -18,3 +18,27 @@ Most of these books have nothing to do with being a prof, at least on the surfac
 students is the same as managing a group of employees at a company. There is much to learn from the literature on
 management. Personally, I never had much taste for reading the likes of Lee Iacocca or Andy Grove, but these
 people know a hell of a lot about building and managing teams.
+
+[Harvard Business Review on Motivating People](https://www.amazon.com/Harvard-Business-Review-Motivating-Paperback/dp/1591391326?ie=UTF8&*Version*=1&*entries*=0)
+Grad students are strange beasts. Figuring out how to motivate them is an exceedingly useful skill.
+
+[Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Teams-Second/dp/0932633439?ie=UTF8&*Version*=1&*entries*=0)
+This is the classic book on managing software engineering teams. Much of this is very relevant to keeping your research group happy and productive.
+
+[Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1430243147?ie=UTF8&camp=1789&creative=390957&creativeASIN=1430243147&linkCode=as2&redirect=true&ref_=as_li_ss_tl&tag=beigee-20)
+A humorous and raw look at what it takes to run software teams. More on the author's blog, [Rands in Repose](http://randsinrepose.com/).
+
+# Blog posts and such
+
+[The subtle art of managing a research group](http://matt-welsh.blogspot.com/2010/07/subtle-art-of-managing-research-group.html)  
+Some thoughts on what it takes to run research groups in academia.
+
+[The CS grad student lab manual](http://matt-welsh.blogspot.com/2010/01/cs-grad-student-lab-manual.html)  
+Trying to whip students into shape with a bit of rigor.
+
+[Grad student resolutions](http://matt.might.net/articles/grad-student-resolutions/) by [Matt Might](http://matt.might.net/)  
+Twelve good habits to instill in your grad students.
+
+[How do you evaluate your grad students?](http://matt-welsh.blogspot.com/2011/07/how-do-you-evaluate-your-grad-students.html)  
+Some thoughts on giving good feedback and keeping 'em on course.
+
