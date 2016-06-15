@@ -25,5 +25,7 @@ faculty career path is for you, I think it's important to understand some of the
 [Time management for junior faculty](http://matt-welsh.blogspot.com/2009/02/time-management-for-junior-faculty.html)  
     Early thoughts on how to juggle all of the job responsibilities.
 
+[Reflections and advice on junior faculty life](http://pgbovine.net/junior-faculty-life-summary.htm) - by [Philip Guo](http://pgbovine.net/)
+
 [The Illustrated Guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/) - by [Matt Might](http://matt.might.net/)  
     The PhD being, of course, the precondition for most faculty jobs.
